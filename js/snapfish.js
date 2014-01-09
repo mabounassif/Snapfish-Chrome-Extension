@@ -1,1 +1,1 @@
-console.log($('img').size());
+alert($('img').size());
