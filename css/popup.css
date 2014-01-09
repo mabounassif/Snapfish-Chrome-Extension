@@ -1,0 +1,34 @@
+div {
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+}
+
+div.logo {
+    background: url("/images/snapfish-full-logo.jpg") no-repeat;
+    width: 100%;
+    height: 100px;
+    background-size: 300px 79px;
+}
+
+div.fb-button {
+    background: url("/images/pressed_600.png") no-repeat;
+    background: url("/images/active_600.png") no-repeat;
+    width: 100%;
+    height: 64px;
+    background-size: 300px 46px;
+}
+
+div.fb-button:hover {
+    background: url("/images/pressed_600.png") no-repeat;
+    cursor: pointer;
+}
+
+div.intro-text {
+    width: 180px;
+    height: 80px;
+    margin: 0 auto;
+    font-size: 26px;
+    text-align: center;
+}
