@@ -1,1 +1,1 @@
-alert($('img').size());
+//alert($('img').size());
